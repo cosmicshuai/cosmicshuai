@@ -1,4 +1,4 @@
-### something is better than nothing ! 👋 Greetings!
+### Doing backend has so much fun!
 
 <!--
 **cosmicshuai/cosmicshuai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
